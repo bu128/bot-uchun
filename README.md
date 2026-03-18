@@ -1,2 +1,1 @@
-# bot-uchun
-bot ochdim
+python-telegram-bot
